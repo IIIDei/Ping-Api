@@ -36,7 +36,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
    git clone https://github.com/IIIDei/Ping-Api.git
    cd nodejs-ping-api
 
-2. **Installer les dépendances :
+2. **Installer les dépendances :**
    ```bash
    npm install
    ```
@@ -65,7 +65,7 @@ Compiler le projet TypeScript :
    npm run build
    ```
 
-Démarrer le serveur :
+**Démarrer le serveur :**
 
    ```bash
    npm start
