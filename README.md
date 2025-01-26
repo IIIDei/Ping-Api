@@ -73,5 +73,4 @@ Démarrer le serveur :
 
 ## **Endpoints**
 
-![Texte alternatif](https://cdn.discordapp.com/attachments/1250870245246238853/1333189982407622786/image.png?ex=6797fd6d&is=6796abed&hm=dd9768f54e74579ef096c3d325037e58c4070408e9df1aede7d75f250085d002&)
-![Texte alternatif](https://cdn.discordapp.com/attachments/1250870245246238853/1333189757152399442/image.png?ex=6797fd37&is=6796abb7&hm=1b4bf8f5ffac7b7535dda5b90d29d1c17d2cc726f2d240ba5b035a331feb5873&)
+![image](https://github.com/user-attachments/assets/b544ac49-ee41-4f10-8f93-b4b03d2e5eea)
